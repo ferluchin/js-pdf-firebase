@@ -19,10 +19,14 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "archiver": "^5.3.1",
+    "nodemailer": "^6.7.7",
     "pdfkit": "^0.13.0",
     "pdfmake": "^0.2.5",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.13",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
